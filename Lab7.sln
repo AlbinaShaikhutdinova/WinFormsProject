@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_RunAwayButton", "Lab7_RunAwayButton\Lab7_RunAwayButton.csproj", "{4A513873-99A0-425B-8A32-1B103BF1E744}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7_ColorPalette", "Lab7_ColorPalette\Lab7_ColorPalette.csproj", "{6F08EBE3-64B2-4E32-858A-58EF8D1112BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A513873-99A0-425B-8A32-1B103BF1E744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A513873-99A0-425B-8A32-1B103BF1E744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A513873-99A0-425B-8A32-1B103BF1E744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A513873-99A0-425B-8A32-1B103BF1E744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F08EBE3-64B2-4E32-858A-58EF8D1112BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F08EBE3-64B2-4E32-858A-58EF8D1112BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F08EBE3-64B2-4E32-858A-58EF8D1112BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F08EBE3-64B2-4E32-858A-58EF8D1112BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87E5D008-6077-472F-AB90-0E6D5698B5AA}
+	EndGlobalSection
+EndGlobal
