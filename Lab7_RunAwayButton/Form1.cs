@@ -62,7 +62,7 @@ namespace Lab7_RunAwayButton
             {
              
              point1 = new Point(e.X, e.Y);
-             
+              
               
                 if ((e.X >= button1.Location.X + button1.Width / 2) & (button1.Left > 0))
                 {
